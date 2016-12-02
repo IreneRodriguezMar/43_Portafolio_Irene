@@ -1,0 +1,82 @@
+.mg-5{
+	margin: 5%;
+}
+.mg-2{
+	margin: 2%;
+}
+.mt-25{
+	margin-top: 25%;
+}
+.mt-5{
+	margin-top: 5%;
+}
+.mt-10{
+	margin-top:10%;
+}
+.mt-15{
+	margin-top: 15%;
+}
+.mt-20{
+	margin-top: 20%;
+}
+.mb-5{
+	margin-bottom: 5%;
+}
+.mb-25{
+	margin-bottom:25%;
+}
+.ml-10{
+	margin-left: 10%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-0{
+	padding: 0px !important;
+}
+.color-crem{
+	color: #ffe0b2;
+}
+.color-ver{
+	color: #1DD8A9;
+}
+.bg-ver{
+	background-color: #c8e6c9;
+
+}
+.bg-amar{
+	background-color: #f0f4c3;
+}
+.bg-orang{
+	background-color: #ffe0b2;
+}
+.bg-azul{
+	background-color: #e0f2f1;
+}
+.bg-gris{
+	background-color: #C2C2C2;
+}
+.white{
+	color: white;
+}
+.fz-30{
+	font-size:30px;
+}
+.fz-25{
+	font-size:25px;
+}
+.fz-50{
+	font-size: 50px;
+}
+.size-200{
+	font-size: 200%;
+}
+.wd-50{
+	width: 50%
+}
+.font-cour{
+	font-family: 'Courgette', cursive;
+}
+.font-philo{
+	font-family: 'Philosopher', sans-serif;
+}
